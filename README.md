@@ -1,4 +1,4 @@
-# synti (Early Concept)
+# Synti (Early Concept)
 
 Synti is a personal safety and real-time emergency response concept.
 
