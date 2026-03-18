@@ -1,6 +1,6 @@
-# ShieldSync (Early Concept)
+# synti (Early Concept)
 
-ShieldSync is a personal safety and real-time emergency response concept.
+Synti is a personal safety and real-time emergency response concept.
 
 GOAL
 
